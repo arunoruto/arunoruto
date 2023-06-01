@@ -1,4 +1,5 @@
 ### Hi there 👋
+Arnaut (Japanese: アルノルト, Arunoruto)
 
 <!--
 **arunoruto/arunoruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
