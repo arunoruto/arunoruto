@@ -1,5 +1,6 @@
 ### Hi there 👋
 Arnaut (Japanese: アルノルト, Arunoruto)
+I am PhD student 🧑🏻‍🎓 and I am researching on the topic of light scattering ✴️ and planetary sciences 🪐
 
 <!--
 **arunoruto/arunoruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
