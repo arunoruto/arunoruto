@@ -1,6 +1,5 @@
 ### Hi there 👋
-Arnaut (Japanese: アルノルト, Arunoruto)
-
+Arnaut (Japanese: アルノルト, Arunoruto) \
 I am PhD student 🧑🏻‍🎓 and I am researching on the topic of light scattering ✴️ and planetary sciences 🪐
 
 <!--
