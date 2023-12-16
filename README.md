@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 ### Work & Research
 I am currently working on my research regarding light scattering using the T-matrix method.
