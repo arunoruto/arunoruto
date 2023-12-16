@@ -1,18 +1,14 @@
-### Hi there 👋
-Arnaut (Japanese: アルノルト, Arunoruto)\
-I am PhD student 🧑🏻‍🎓 and I am researching on the topic of light scattering ✴️ and planetary sciences 🪐
+Hi there 👋
 
-<!--
-**arunoruto/arunoruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work & Research
+I am currently working on my research regarding light scattering using the T-matrix method.
+This will be mainly portrayed in my current project [YASF](https://github.com/AGBV/YASF).
 
-Here are some ideas to get you started:
+## Learning
+No matter how well-versed you are in a language, there will always be a new language lurking around the corner to get your attention with some shiny features...
+I worked with Matlab quite a lot, but due to the closed-source nature, I familiarized myself with Python 🐍.
+But since I am a mathematician deep down, I am getting tempted to switch to Julia. And who knows, maybe my light scattering code will be ported there 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+Arnaut (Japanese: アルノルト, [Arunoruto](https://xenoblade.fandom.com/wiki/Arnaut))\
+If I am not at my desk (at work or home), you can probably find me collecting scrapes in the closest climbing gym!\
