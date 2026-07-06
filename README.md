@@ -51,8 +51,8 @@ highly optimized, reproducible, and terminal-first workflows.
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arunoruto&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Mirza's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunoruto&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=arunoruto&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Mirza's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arunoruto&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
